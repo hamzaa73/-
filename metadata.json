@@ -1,0 +1,7 @@
+{
+  "name": "يمن جديد",
+  "description": "A web application for booking logistics and transport services across Yemen, featuring a multi-step booking process, interactive map for location selection, and multi-language support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
